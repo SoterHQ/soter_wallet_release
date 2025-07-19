@@ -4,9 +4,9 @@
 
 ### Use Upgrade Features
 The Record Upgrade feature is used to ensure that existing privacy tokens remain functional after the blockchain height reaches 9,173,000.
-![alt text](image.png)
+![alt text](image.jpg)
 Click the 'Upgrade' button to proceed with the upgrade.
-![alt text](image-1.png)
+![alt text](image-1.jpg)
 
 ## Download
 
