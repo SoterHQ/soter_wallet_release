@@ -2,12 +2,16 @@
 
 ## Introduction
 
-
+### Use Upgrade Features
+The Record Upgrade feature is used to ensure that existing privacy tokens remain functional after the blockchain height reaches 9,173,000.
+![alt text](image.png)
+Click the 'Upgrade' button to proceed with the upgrade.
+![alt text](image-1.png)
 
 ## Download
 
 ### Mainnet
-
+The mainnet upgrade is tentatively scheduled at block height: 9,425,000. The Soter Wallet development team will promptly provide the upgrade feature once available.
 ### Testnet
 **Wallet**
 
